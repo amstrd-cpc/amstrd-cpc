@@ -17,8 +17,8 @@ a little bit of CSS's what i need,
 a little bit of Python's what i see
 
 
-"Desine sperare qui hic intras"
-Dante, The Divine Comedy
+"Desine sperare qui hic intras" -
+Dante, The Divine Comedy,
 1472
 
 
