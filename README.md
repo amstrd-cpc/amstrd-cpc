@@ -10,12 +10,6 @@ dumbfuck who does nothing interesting
 
 currently on 4th circle of hell(Learning C++)
 
-Know: 
-a little bit of Java in my life, 
-a little bit of HTML by my side,
-a little bit of CSS's what i need,
-a little bit of Python's what i see
-
 
 "Desine sperare qui hic intras" -
 Dante, The Divine Comedy,
