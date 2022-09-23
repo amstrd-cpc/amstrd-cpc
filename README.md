@@ -6,8 +6,6 @@ inst: @ikerra13
 
 TG: @kermit13th
 
-dumbfuck who does nothing interesting
-
 currently on 4th circle of hell(Learning C++)
 
 
