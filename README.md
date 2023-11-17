@@ -1,12 +1,10 @@
-Erik Muradian/ikerra13/amstrd.
+Erik Muradian/amstrd.
 
 AUA Class Of 2026
 
-inst: @ikerra13
+inst: @amstrd_cpc
 
-TG: @kermit13th
-
-music is the healer.
+TG: @amstrd_cpc
 
 
 
