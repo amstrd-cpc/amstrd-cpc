@@ -1,4 +1,10 @@
-Erik Muradian/amstrd.
+▗▞▀▜▌▄▄▄▄   ▄▄▄  ■   ▄▄▄ ▐▌▄ 
+▝▚▄▟▌█ █ █ ▀▄▄▗▄▟▙▄▖█    ▐▌  
+     █   █ ▄▄▄▀ ▐▌  █ ▗▞▀▜▌  
+                ▐▌    ▝▚▄▟▌  
+                ▐▌      
+
+Erik Muradian
 
 AUA Class Of 2026
 
