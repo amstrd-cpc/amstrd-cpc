@@ -8,7 +8,7 @@
 .▀  ▀▀▀  █▪▀▀▀ ▀▀▀▀  ▀▀▀ .▀  ▀ ▀▀▀▀▀•
 ```
 
-# `amstrd`
+# `amstrd.`
 ### `:: suffering :: systems :: archive :: code ::`
 
 </div>
@@ -25,8 +25,7 @@ status: unstable but functioning
 
 hi, i'm **amstrd**.
 
-this page is not a polished brand deck.  
-it's more like a terminal, a storage room, and a running log of things i'm building, breaking, fixing, and slowly dragging into existence.
+this page is my storage room, and a running log of things i'm building, breaking, fixing, and slowly dragging into existence.
 
 right now this github is still being assembled.  
 some parts are empty. some are alive. some are just warnings of what's coming.
@@ -38,7 +37,6 @@ some parts are empty. some are alive. some are just warnings of what's coming.
 - backend and infra-adjacent stuff
 - scripts and utilities
 - experiments
-- writeups
 - systems built out of necessity, irritation, or obsession
 - early foundations for bigger projects
 
@@ -46,19 +44,14 @@ some parts are empty. some are alive. some are just warnings of what's coming.
 
 ## `:: active vectors`
 
-### `amstrd-cpc`
-profile config / base layer / identity shell
-
-### `htbwriteups`
-hack the box writeups, notes, progress tracking, and general “learn by breaking things” material
-
-### `ThePhelia`
-larger project namespace
-
 > **Phelia**  
 > AIO self-hosted PVR for music, movies and TV shows
 
 this is one of the main directions going forward.
+
+> **Theere/Theeremin**  
+> Abandoned project, record store manager via telegram bot/self hosted.
+> the existing product which was basically the same was better, maybe i'll come back to it later
 
 ---
 
@@ -69,7 +62,6 @@ background: black
 text: green
 links: cyan
 font: monospace
-mood: 02:47 AM / terminal glow / no bullshit
 ```
 
 ---
@@ -97,6 +89,8 @@ mood: 02:47 AM / terminal glow / no bullshit
 ## `:: elsewhere`
 
 - instagram: `@amstrd_cpc`
+- soundcloud: `@amstrd_cpc`
+- basically everywhere else: `@amstrd_cpc`
 
 more links will land here when they deserve to.
 
@@ -105,6 +99,6 @@ more links will land here when they deserve to.
 ## `:: final note`
 
 ```text
+everything is infinite but
 nothing is eternal
-but some things should still be built properly
 ```
