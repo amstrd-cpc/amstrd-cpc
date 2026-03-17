@@ -1,38 +1,31 @@
 <div align="center">
 
-```text
- ▄▄▄  • ▌ ▄ ·. .▄▄ · ▄▄▄▄▄▄▄▄   ·▄▄▄▄
-▀▄ █···██ ▐███▪▐█ ▀. •██  ▀▄ █· ██▪ ██
-▐▀▀▄ ▐█ ▐█ ▌▐█·▄▀▀▀█▄ ▐█.▪▐▀▀▄  ▐█· ▐█▌
-▐█•█▌██ ██▌▐█▌▐█▄▪▐█ ▐█▌·▐█•█▌ ██. ██
-.▀  ▀▀▀  █▪▀▀▀ ▀▀▀▀  ▀▀▀ .▀  ▀ ▀▀▀▀▀•
-```
+# amstrd.
 
-# `amstrd.`
-### `:: suffering :: systems :: archive :: code ::`
+### suffering · systems · archive · code
 
 </div>
 
 ---
 
-```text
-boot sequence initiated...
-loading: fragments / tools / infrastructure / weird future plans
+**boot sequence initiated...**  
+loading: fragments / tools / infrastructure / weird future plans  
 status: unstable but functioning
-```
 
-## `:: whoami`
+---
+
+## whoami
 
 hi, i'm **amstrd**.
 
-this page is my storage room, and a running log of things i'm building, breaking, fixing, and slowly dragging into existence.
+this page is a storage room and a running log of things i'm building, breaking, fixing, and slowly dragging into existence.
 
 right now this github is still being assembled.  
 some parts are empty. some are alive. some are just warnings of what's coming.
 
 ---
 
-## `:: what you’ll find here`
+## what you'll find here
 
 - backend and infra-adjacent stuff
 - scripts and utilities
@@ -42,31 +35,34 @@ some parts are empty. some are alive. some are just warnings of what's coming.
 
 ---
 
-## `:: active vectors`
+## active vectors
 
-> **Phelia**  
-> AIO self-hosted PVR for music, movies and TV shows
+**Phelia**  
+AIO self-hosted PVR for music, movies and TV shows.
 
-this is one of the main directions going forward.
+One of the main directions going forward.
 
-> **Theere/Theeremin**  
-> Abandoned project, record store manager via telegram bot/self hosted.
-> the existing product which was basically the same was better, maybe i'll come back to it later
+**Theere / Theeremin**  
+Abandoned project.  
+Record store manager via Telegram bot / self-hosted setup.
 
----
-
-## `:: aesthetic preferences`
-
-```text
-background: black
-text: green
-links: cyan
-font: monospace
-```
+The existing product that did basically the same thing was better.  
+Maybe I'll come back to it later.
 
 ---
 
-## `:: philosophy`
+## aesthetic preferences
+
+black background  
+green text  
+cyan links  
+monospace fonts  
+minimal interfaces  
+no bullshit
+
+---
+
+## philosophy
 
 - if the system is stupid, don't worship it
 - if the tool is ugly but works, respect it
@@ -75,30 +71,26 @@ font: monospace
 
 ---
 
-## `:: current status`
+## current status
 
-```text
-[+] github is being rebuilt
-[+] projects are being moved into shape
-[+] structure emerging
-[-] finished? no
-```
+- github is being rebuilt
+- projects are being moved into shape
+- structure is emerging
+- finished? no
 
 ---
 
-## `:: elsewhere`
+## elsewhere
 
-- instagram: `@amstrd_cpc`
-- soundcloud: `@amstrd_cpc`
-- basically everywhere else: `@amstrd_cpc`
+- instagram: **@amstrd_cpc**
+- soundcloud: **@amstrd_cpc**
+- basically everywhere else: **@amstrd_cpc**
 
 more links will land here when they deserve to.
 
 ---
 
-## `:: final note`
+## final note
 
-```text
-everything is infinite but
+everything is infinite, but  
 nothing is eternal
-```
