@@ -9,7 +9,6 @@
 ---
 
 **boot sequence initiated...**  
-loading: fragments / tools / infrastructure / weird future plans  
 status: unstable but functioning
 
 ---
