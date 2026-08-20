@@ -17,17 +17,19 @@ status: unstable but functioning
 
 hi, i'm **amstrd**.
 
-this page is a storage room and a running log of things i'm building, breaking, fixing, and slowly dragging into existence.
+this page is a storage room and a running log of things i'm building.
 
 right now this github is still being assembled.  
+
 ---
 
 ## what you'll find here
 
 - backend and infra-adjacent stuff
 - scripts and utilities
+- VST Plugins
 - experiments
-- systems built out of necessity, irritation, or obsession
+- systems
 - early foundations for bigger projects
 
 ---
@@ -50,18 +52,8 @@ Maybe I'll come back to it later.
 
 ## aesthetic preferences
 
-minimalism  
 no bullshit
 
-
----
-
-## current status
-
-- github is being rebuilt
-- projects are being moved into shape
-- structure is emerging
-- finished? no
 
 ---
 
@@ -71,11 +63,10 @@ no bullshit
 - soundcloud: **@amstrd_cpc**
 - basically everywhere else: **@amstrd_cpc**
 
-more links will land here when they deserve to.
 
 ---
 
-## final note
+## motto
 
 everything is infinite, but  
 nothing is eternal
