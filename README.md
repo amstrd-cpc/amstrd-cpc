@@ -36,7 +36,7 @@ right now this github is still being assembled.
 
 ## active vectors
 
-**Phelia**  
+**Omniphile**  
 AIO self-hosted PVR for music, movies and TV shows.
 
 One of the main directions going forward.
